@@ -1,6 +1,6 @@
 # MacheEightChallenge
 
-##Download Repository from GitHub
+## Download Repository from GitHub
 1. clone https://github.com/santiagoramirezdev/MacheEightChallenge.git
 
 ## How to Run in Terminal
